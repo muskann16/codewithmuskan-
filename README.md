@@ -10,7 +10,6 @@
 - Digital Marketing
 - HTML & CSS
 - Python Basics
-- Content Creation
 
 ## 🌱 Currently Learning
 - Web Development
